@@ -35,7 +35,7 @@ drive.mount('/content/drive')
 
 Option 3: Run Locally
 1. Make sure you have Python and Jupyter installed
-2. Download `G2_Final_Project.ipynb`
+2. Download `todo.ipynb`
 3. Open in Jupyter Notebook / JupyterLab / VS Code
 4. Run all cells sequentially
 5. The `tasks.txt` file will be created automatically
